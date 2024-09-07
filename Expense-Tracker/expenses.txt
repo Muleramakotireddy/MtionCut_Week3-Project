@@ -1,0 +1,2 @@
+07-09-2024,trnsportation,train,500
+07-09-2024,food,"water bottle,rice,curry",200
